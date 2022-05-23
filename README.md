@@ -6,5 +6,5 @@
 
 ### 知识点内容：
 
-【1】[TypeScript](https://github.com/b1ngkele/notes/TypeScript)
+【1】[TypeScript](https://github.com/b1ngkele/notes/tree/main/TypeScript)
 

@@ -10,7 +10,7 @@ function identity <T>(value:T): T{
 
 上面这个函数中的T就是一个希望传给identity函数的类型占位符。
 
-![ts-泛型](/Users/shizu/code/notes/images/ts-泛型.png)
+![ts-泛型](https://github.com/b1ngkele/notes/raw/main/images/ts-%E6%B3%9B%E5%9E%8B.png)
 
 其实T可以用任何字母代替。
 
